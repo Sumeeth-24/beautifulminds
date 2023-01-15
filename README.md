@@ -1,4 +1,4 @@
-# A Blog Application
+# A Short Story Application
 
 
 ## Screenshots
